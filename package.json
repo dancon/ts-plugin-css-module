@@ -1,0 +1,10 @@
+{
+  "name": "ts-css-modules",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.8.3",
+    "typescript-plugin-css-modules": "^2.2.0"
+  }
+}

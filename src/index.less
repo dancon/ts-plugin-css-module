@@ -1,0 +1,15 @@
+// this works
+@import './common/variables.less';
+
+// then it do not work, `styles` is defined in tsconfig.paths,
+// Maybe the plugin can detect the import path, and deal with `tsconfig.paths`
+@import '~styles/variables.less';
+
+.container {
+  padding: 32px;
+  font-size: @fontSize;
+
+  .header-title {
+    font-size: 16px;
+  }
+}
