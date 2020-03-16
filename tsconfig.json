@@ -5,7 +5,8 @@
         "name": "typescript-plugin-css-modules",
         "options": {
           "classnameTransform": "camelCase",
-          "customMatcher": "\\.less$"
+          "customMatcher": "\\.less$",
+          "customRenderer": "node_modules/less-plugin-aliases/lib/customRender.js"
         }
       }
     ],
