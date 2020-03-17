@@ -6,7 +6,7 @@
         "options": {
           "classnameTransform": "camelCase",
           "customMatcher": "\\.less$",
-          "customRenderer": "node_modules/less-plugin-aliases/lib/customRender.js"
+          "customRenderer": "less-plugin-aliases/lib/customRender.js"
         }
       }
     ],

@@ -512,10 +512,10 @@ jsprim@^1.2.2:
     json-schema "0.2.3"
     verror "1.10.0"
 
-less-plugin-aliases@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/less-plugin-aliases/-/less-plugin-aliases-1.0.2.tgz#4e97e9bc198a4354b605e267077e5006a34a4365"
-  integrity sha512-abfC8t6Xrz/A7BlB+3auDpo76JdhmhboRFDNQjL2nSzJukfwkerx3atbzUXKqgO50Zv39L+CyY7y9RsUyepo/w==
+less-plugin-aliases@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/less-plugin-aliases/-/less-plugin-aliases-1.0.3.tgz#cc233698f991c34679ab4054256ea5096dfdeeb9"
+  integrity sha512-O3a77rG3fUKJ9H1NjO+vJMHC3OiS8nwtqAKP2eor+njO1dO1B9eLH9t/XpkQNNfbeU2mFUwtQJqQR0t2e9gx7A==
   dependencies:
     find-up "^4.1.0"
     json5 "^2.1.1"
